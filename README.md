@@ -10,7 +10,7 @@ My name is Soul22 :v:, and I am an independent blockchain security researcher.
 
 | Overall issues found | High risk | Medium risk | Audited contests |
 |:--:|:--:|:--:|:--:|
-| 13 issues found | 6 highs | 7 mediums | 3 contests |
+| 13 issues found | 6 highs | 9 mediums | 3 contests |
 
 # Soul22's monthly tracking 
 
