@@ -40,7 +40,7 @@ My name is Soul22 :v:, and I am an independent blockchain security researcher.
 | Contest | High risk | Catch rate | Medium risk | Catch rate | Security report | Leaderboard  | Date |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | [DSC](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | 0 highs | - | 2 mediums | - | - | - |Aug. |
-| [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 3 highs | 3/26(12%) | 1 mediums | 1/29(3%) | 100/274 | - |Aug. |
+| [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 3 highs | 3/26(12%) | 1 mediums | 1/29(3%) | | 100/274	 |Aug. |
 | [Sparkn](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx) | - | - | - | - | - | - |- |Aug. |
 
 
