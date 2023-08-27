@@ -27,8 +27,6 @@ My name is Soul22 :v:, and I am an independent blockchain security researcher.
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | [Tangible](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 2 highs  | - | 4 mediums | - | - | - | Aug. |
 | [veRWA](https://code4rena.com/contests/2023-08-verwa#top) | 1 highs  | - | 0 mediums  | - | - | - |Aug. |
-| [Shell](https://code4rena.com/contests/2023-08-shell-protocol#top) | -  | - | -  | - | - | - | - | Aug. |
-| [Dopex](https://code4rena.com/contests/2023-08-dopex#top) | -  | - | -  | - | - | - | - | Sept. |
 
 
 
