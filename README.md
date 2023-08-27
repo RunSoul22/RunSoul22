@@ -12,13 +12,6 @@ My name is Soul22 :v:, and I am an independent blockchain security researcher.
 |:--:|:--:|:--:|:--:|
 | 13 issues found | 6 highs | 7 mediums | 4 contests |
 
-# Soul22's monthly tracking 
-
-### 17 July, 2023 - 17 August, 2023 
-| Total issues | High risk| Catch rate | Medium risk | Catch rate | Audited contests |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| 13 issues found | 6 highs| - | 7 mediums| - | 4 contests | - | - |
-
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
 
@@ -27,8 +20,6 @@ My name is Soul22 :v:, and I am an independent blockchain security researcher.
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | [Tangible](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 2 highs  | - | 4 mediums | - | - | - | Aug. |
 | [veRWA](https://code4rena.com/contests/2023-08-verwa#top) | 1 highs  | - | 0 mediums  | - | - | - |Aug. |
-
-
 
 
 
