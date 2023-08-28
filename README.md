@@ -30,7 +30,6 @@ My name is Soul22 :v:, and I am an independent blockchain security researcher.
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | [DSC](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | 0 highs | - | 2 mediums | - | - | - |
 | [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 3 highs | 3/26(12%) | 1 mediums | 1/29(3%) | | 100/274	 |
-| [Sparkn](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx) | - | - | - | - | - | - |- |
 
 
 # Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=24 height=23.5>
