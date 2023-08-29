@@ -10,7 +10,7 @@ My name is Soul22 :v:, and I am an independent blockchain security researcher.
 
 | Overall issues found | High risk | Medium risk | Audited contests |
 |:--:|:--:|:--:|:--:|
-| 13 issues found | 6 highs | 7 mediums | 4 contests |
+| 13 issues found | 6 highs | 8 mediums | 4 contests |
 
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
@@ -29,7 +29,7 @@ My name is Soul22 :v:, and I am an independent blockchain security researcher.
 | Contest | High risk(Total) | Catch rate(Best) | Medium risk(Total) | Catch rate(Best) | Security report | Leaderboard |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
 | [DSC](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | 0 highs | - | 2 mediums | - | - | - |
-| [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 3 highs | 3/26(12%) | 1 mediums | 1/29(3%) | | 100/274	 |
+| [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 3(26) | 12%(50%) | 2(15) | 13%(47%) | | 89/276	 |
 
 
 # Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=24 height=23.5>
