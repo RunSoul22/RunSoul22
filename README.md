@@ -10,7 +10,7 @@ My name is Soul22 :v:, and I am an independent blockchain security researcher.
 
 | Overall issues found | High risk | Medium risk | Audited contests |
 |:--:|:--:|:--:|:--:|
-| 13 issues found | 6 highs | 8 mediums | 4 contests |
+| 14 issues found | 6 highs | 8 mediums | 4 contests |
 
 
 # Code4rena <img src="https://code4rena.com/logos/c4-logo.svg" width=100 height=25>
