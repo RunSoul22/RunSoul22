@@ -18,9 +18,9 @@ My name is Soul22 :v:, and I am an independent blockchain security researcher.
 ### Audit Competitions
 | Contest | High risk(Total) | Catch rate(Best) | Medium risk | Security report | Leaderboard |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| [Tangible](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 2 highs  | - | 4 mediums | - | - | - | 
-| [veRWA](https://code4rena.com/contests/2023-08-verwa#top) | 1 highs  | - | 0 mediums  | - | - | - |
-| [Ondo Finance](https://code4rena.com/contests/2023-09-ondo-finance#top) | 0 highs  | - | 0 mediums  | - | - | - |
+| [Tangible](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 2(?)   | - | 4(?)  | - | - | - | 
+| [veRWA](https://code4rena.com/contests/2023-08-verwa#top) | 1(?)  | - | 0(?)   | - | - | - |
+| [Ondo Finance](https://code4rena.com/contests/2023-09-ondo-finance#top) | 0(?)   | - | 0(?)   | - | - | - |
 
 
 
@@ -34,6 +34,8 @@ My name is Soul22 :v:, and I am an independent blockchain security researcher.
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [DSC](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | 0(4) | 0%(50%) | 2 | - | 149/229 | 
 | [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 3(26) | 12%(50%) | 2| -  | 89/276	 |
+| [Sparkn](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx) | 0(3) | 0%(?%) | 1| -  | ?	 |
+
 
 
 # Sherlock <img src="https://audits.sherlock.xyz/_next/static/media/sherlock_logo.dc2b3290.svg" width=24 height=23.5>
