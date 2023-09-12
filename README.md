@@ -18,9 +18,11 @@ My name is Soul22 :v:, and I am an independent blockchain security researcher.
 ### Audit Competitions
 | Contest | High risk(Total) | Catch rate(Best) | Medium risk | Security report | Leaderboard |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| [Tangible](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 2(?)   | - | 4(?)  | - | - | - | 
-| [veRWA](https://code4rena.com/contests/2023-08-verwa#top) | 1(?)  | - | 0(?)   | - | - | - |
+| [Tangible Finance](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 2(?)   | - | 4(?)  | - | - | - | 
+| [veRWA](https://code4rena.com/contests/2023-08-verwa#top) | 1(8)  | 12.5%(50%) | 0(3)   | - | - | - |
 | [Ondo Finance](https://code4rena.com/contests/2023-09-ondo-finance#top) | 0(?)   | - | 0(?)   | - | - | - |
+| [Delegate Protocol](https://code4rena.com/contests/2023-09-delegate#top) | 1(?)   | - | 2(?)   | - | - | - |
+
 
 
 
