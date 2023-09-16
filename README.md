@@ -21,8 +21,8 @@ My name is Soul22 :v:, and I am an independent blockchain security researcher.
 |:--:|:--:|:--:|:--:|
 | [Tangible Finance](https://code4rena.com/contests/2023-08-tangible-caviar#top) | 3(12) | 2  | 26 | 
 | [veRWA](https://code4rena.com/contests/2023-08-verwa#top) | 1(8)| 0 | - | 
-| [Ondo Finance](https://code4rena.com/contests/2023-09-ondo-finance#top) | judging | - | - |
-| [Delegate Protocol](https://code4rena.com/contests/2023-09-delegate#top) |  judging  | - | -  |
+| [Ondo Finance](https://code4rena.com/contests/2023-09-ondo-finance#top) | Judging | - | - |
+| [Delegate Protocol](https://code4rena.com/contests/2023-09-delegate#top) |  Judging  | - | -  |
 
 
 
