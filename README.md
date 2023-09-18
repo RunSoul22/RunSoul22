@@ -35,7 +35,7 @@ My name is Soul22 :v:, and I am an independent blockchain security researcher.
 ### Audit Competitions
 | Contest | High risk(Total) | Medium risk | Leaderboard |
 |:--:|:--:|:--:|:--:|
-| [DSC](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | 0(4) | 2 | 174/229 | 
+| [DSC](https://www.codehawks.com/contests/cljx3b9390009liqwuedkn0m0) | 0(4) | 1 | 174/229 | 
 | [Beedle](https://www.codehawks.com/contests/clkbo1fa20009jr08nyyf9wbx) | 3(26) | 2 |91/276 |
 | [Sparkn](https://www.codehawks.com/contests/cllcnja1h0001lc08z7w0orxx) | 0(3)| 1 |  80/202	 |
 
